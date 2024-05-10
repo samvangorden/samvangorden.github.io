@@ -35,13 +35,17 @@ Participant in Alternative Breaks classroom building project in Nicaragua, Sprin
 ## Projects
 
 ### Natural Language Processing
-[GitHub](https://github.com/Svangorden13/Machine-Learning-Projects/tree/main/NLP-LLM)
+[Sentiment Analysis](https://github.com/Svangorden13/Machine-Learning-Projects/blob/main/NLP-LLM/disaster-tweets-merge-model-tensorflow.ipynb)\
+[Question Answering](https://github.com/Svangorden13/Machine-Learning-Projects/blob/main/NLP-LLM/multiple-choice-transformer.ipynb)\
+[Named Entity Recognition](https://github.com/Svangorden13/Machine-Learning-Projects/blob/main/NLP-LLM/pii-detection-removal.ipynb)\
+Word Problem Solving - Coming Soon!
 
 ### Reinforcement Learning
-[GitHub](https://github.com/Svangorden13/Machine-Learning-Projects/blob/main/halite-bot-2.ipynb)
+[Game Playing Bot](https://github.com/Svangorden13/Machine-Learning-Projects/blob/main/halite-bot-2.ipynb)
 
 ### Image Processing
-[GitHub](https://github.com/Svangorden13/Machine-Learning-Projects/tree/main/Image-Processing)
+[Convolutional Neural Network](https://github.com/Svangorden13/Machine-Learning-Projects/blob/main/Image-Processing/men-women-classification-pytorch.ipynb)
+[Generative Adversarial Network](https://github.com/Svangorden13/Machine-Learning-Projects/blob/main/Image-Processing/anime-gan.ipynb)
 
 ### Natural Sciences
 [Heart Disease](https://github.com/Svangorden13/Heart-Disease)\
