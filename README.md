@@ -14,11 +14,11 @@ I am a former software engineer turned data scientist after receiving my Masters
 [GitHub](https://github.com/Svangorden13/Machine-Learning-Projects/tree/main/Image-Processing)
 
 ### Natural Sciences
-[Heart Disease](https://github.com/Svangorden13/Heart-Disease)
-[Natural Disasters](https://github.com/Svangorden13/Natural-Disasters)
-[Body Fat](https://github.com/Svangorden13/Body-Fat)
+[Heart Disease](https://github.com/Svangorden13/Heart-Disease)\
+[Natural Disasters](https://github.com/Svangorden13/Natural-Disasters)\
+[Body Fat](https://github.com/Svangorden13/Body-Fat)\
 [Mouse Neurons](https://github.com/Svangorden13/Mouse-Neurons)
 
 ### Data Science Theory
-[Data Imputation](https://github.com/Svangorden13/DataImputation)
+[Data Imputation](https://github.com/Svangorden13/DataImputation)\
 [Gibbs MCMC vs Frequentist](https://github.com/Svangorden13/GibbsMCMCvsFrequentist)
