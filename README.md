@@ -44,7 +44,7 @@ Word Problem Solving - Coming Soon!
 [Game Playing Bot](https://github.com/Svangorden13/Machine-Learning-Projects/blob/main/halite-bot-2.ipynb)
 
 ### Image Processing
-[Convolutional Neural Network](https://github.com/Svangorden13/Machine-Learning-Projects/blob/main/Image-Processing/men-women-classification-pytorch.ipynb)
+[Convolutional Neural Network](https://github.com/Svangorden13/Machine-Learning-Projects/blob/main/Image-Processing/men-women-classification-pytorch.ipynb)\
 [Generative Adversarial Network](https://github.com/Svangorden13/Machine-Learning-Projects/blob/main/Image-Processing/anime-gan.ipynb)
 
 ### Natural Sciences
