@@ -38,7 +38,7 @@ Participant in Alternative Breaks classroom building project in Nicaragua, Sprin
 [Sentiment Analysis](https://github.com/Svangorden13/Machine-Learning-Projects/blob/main/NLP-LLM/disaster-tweets-merge-model-tensorflow.ipynb)\
 [Question Answering](https://github.com/Svangorden13/Machine-Learning-Projects/blob/main/NLP-LLM/multiple-choice-transformer.ipynb)\
 [Named Entity Recognition](https://github.com/Svangorden13/Machine-Learning-Projects/blob/main/NLP-LLM/pii-detection-removal.ipynb)\
-Word Problem Solving - Coming Soon!
+[Word Problem Solving](https://github.com/Svangorden13/Machine-Learning-Projects/blob/main/NLP-LLM/math-word-problems.ipynb)
 
 ### Reinforcement Learning
 [Game Playing Bot](https://github.com/Svangorden13/Machine-Learning-Projects/blob/main/halite-bot-2.ipynb)
